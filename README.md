@@ -107,6 +107,8 @@
 
 - [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)
 
+- [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/)
+
 <a name="interview" />
 
 ## Interview Resources
