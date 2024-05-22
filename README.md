@@ -123,6 +123,8 @@
 
 - [The Big List of DS/ML Interview Resources](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63)
 
+- [Skills for Machine Learning](https://www.scaler.com/blog/skills-for-machine-learning/#core-technical-skills-in-machine-learning)
+
 <a name="ai" />
 
 ## Artificial Intelligence
