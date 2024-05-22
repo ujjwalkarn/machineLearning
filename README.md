@@ -233,6 +233,8 @@
 
 - [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning) - Continuously updated machine learning documentations (mainly in Python3). Contents include educational implementation of machine learning algorithms from scratch and open-source library usage
 
+- [Skills for Machine Learning](https://www.scaler.com/blog/skills-for-machine-learning/) - This blog covers the essential skills in math, statistics, and computer science needed to understand ML algorithms, analyze data effectively, and succeed in the field.
+
 <a name="quora" />
 
 ## Resources on Quora
