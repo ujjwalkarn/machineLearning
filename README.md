@@ -141,6 +141,8 @@
 
 - [TED talks on AI](http://www.ted.com/playlists/310/talks_on_artificial_intelligen)
 
+- [Scaler Blogs on AI and ML](https://www.scaler.com/blog/category/artificial-intelligence-machine-learning/)
+
 <a name="ga" />
 
 ## Genetic Algorithms
