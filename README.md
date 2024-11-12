@@ -25,7 +25,7 @@
 - [Logistic Regression](#logistic)
 - [Model Validation using Resampling](#validation)
     - [Cross Validation](#cross)
-    - [Bootstraping](#boot)
+    - [Bootstrapping](#boot)
 - [Deep Learning](#deep)
     - [Frameworks](#frame)
     - [Feed Forward Networks](#feed)
@@ -157,7 +157,7 @@
 
     - [Genetic Programming in Python (GitHub)](https://github.com/trevorstephens/gplearn)
     
-    - [Genetic Alogorithms vs Genetic Programming (Quora)](https://www.quora.com/Whats-the-difference-between-Genetic-Algorithms-and-Genetic-Programming), [StackOverflow](http://stackoverflow.com/questions/3819977/what-are-the-differences-between-genetic-algorithms-and-genetic-programming)
+    - [Genetic Algorithms vs Genetic Programming (Quora)](https://www.quora.com/Whats-the-difference-between-Genetic-Algorithms-and-Genetic-Programming), [StackOverflow](http://stackoverflow.com/questions/3819977/what-are-the-differences-between-genetic-algorithms-and-genetic-programming)
 
 <a name="stat" />
 
@@ -223,7 +223,7 @@
 
 - [Variance Explained](http://varianceexplained.org/) - David Robinson's Blog
 
-- [AI Junkie](http://www.ai-junkie.com/) - a blog about Artificial Intellingence
+- [AI Junkie](http://www.ai-junkie.com/) - a blog about Artificial intelligence
 
 - [Deep Learning Blog by Tim Dettmers](http://timdettmers.com/) - Making deep learning accessible
 
@@ -360,9 +360,9 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Resampling Explained](https://en.wikipedia.org/wiki/Resampling_(statistics))
 
-- [Partioning data set in R](http://stackoverflow.com/questions/13536537/partitioning-data-set-in-r-based-on-multiple-classes-of-observations)
+- [Partitioning data set in R](http://stackoverflow.com/questions/13536537/partitioning-data-set-in-r-based-on-multiple-classes-of-observations)
 
-- [Implementing hold-out Validaion in R](http://stackoverflow.com/questions/22972854/how-to-implement-a-hold-out-validation-in-r), [2](http://www.gettinggeneticsdone.com/2011/02/split-data-frame-into-testing-and.html)
+- [Implementing hold-out validation in R](http://stackoverflow.com/questions/22972854/how-to-implement-a-hold-out-validation-in-r), [2](http://www.gettinggeneticsdone.com/2011/02/split-data-frame-into-testing-and.html)
 
 <a name="cross" />
 
@@ -374,7 +374,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     
     - [Variance Estimates in k-fold CV](http://stats.stackexchange.com/questions/31190/variance-estimates-in-k-fold-cross-validation)
     
-    - [Is CV a subsitute for Validation Set?](http://stats.stackexchange.com/questions/18856/is-cross-validation-a-proper-substitute-for-validation-set)
+    - [Is CV a substitute for Validation Set?](http://stats.stackexchange.com/questions/18856/is-cross-validation-a-proper-substitute-for-validation-set)
     
     - [Choice of k in k-fold CV](http://stats.stackexchange.com/questions/27730/choice-of-k-in-k-fold-cross-validation)
     
@@ -452,7 +452,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Top arxiv Deep Learning Papers explained](http://www.kdnuggets.com/2015/10/top-arxiv-deep-learning-papers-explained.html)
 
-- [Geoff Hinton Youtube Vidoes on Deep Learning](https://www.youtube.com/watch?v=IcOMKXAw5VA)
+- [Geoff Hinton Youtube videos on Deep Learning](https://www.youtube.com/watch?v=IcOMKXAw5VA)
 
 - [Awesome Deep Learning Reading List](http://deeplearning.net/reading-list/)
 
@@ -843,7 +843,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
     - [Classification Text with Bag of Words](http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/)
 
-- Named Entity Recognitation 
+- Named Entity recognition 
     
      - [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.shtml)
 
@@ -991,13 +991,13 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
     - [party package in R](https://cran.r-project.org/web/packages/party/party.pdf)
     
-    - [Show volumne in each node using ctree in R](http://stackoverflow.com/questions/13772715/show-volume-in-each-node-using-ctree-plot-in-r)
+    - [Show volume in each node using ctree in R](http://stackoverflow.com/questions/13772715/show-volume-in-each-node-using-ctree-plot-in-r)
     
     - [How to extract tree structure from ctree function?](http://stackoverflow.com/questions/8675664/how-to-extract-tree-structure-from-ctree-function)
     
 - CHAID
 
-    - [Wikipedia Artice on CHAID](https://en.wikipedia.org/wiki/CHAID)
+    - [Wikipedia article on CHAID](https://en.wikipedia.org/wiki/CHAID)
     
     - [Basic Introduction to CHAID](https://smartdrill.com/Introduction-to-CHAID.html)
     
@@ -1051,7 +1051,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - Gradient Boosting Machine
 
-    - [Gradiet Boosting Wiki](https://en.wikipedia.org/wiki/Gradient_boosting)
+    - [Gradient Boosting Wiki](https://en.wikipedia.org/wiki/Gradient_boosting)
     
     - [Guidelines for GBM parameters in R](http://stats.stackexchange.com/questions/25748/what-are-some-useful-guidelines-for-gbm-parameters), [Strategy to set parameters](http://stats.stackexchange.com/questions/35984/strategy-to-set-the-gbm-parameters)
     
@@ -1143,7 +1143,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Wikipedia article on VC Dimension](https://en.wikipedia.org/wiki/VC_dimension)
 
-- [Intuitive Explanantion of VC Dimension](https://www.quora.com/Explain-VC-dimension-and-shattering-in-lucid-Way)
+- [Intuitive explanation of VC Dimension](https://www.quora.com/Explain-VC-dimension-and-shattering-in-lucid-Way)
 
 - [Video explaining VC Dimension](https://www.youtube.com/watch?v=puDzy2XmR5c)
 
