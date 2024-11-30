@@ -122,6 +122,7 @@
 - [What are the key skills of a data scientist?](https://www.quora.com/What-are-the-key-skills-of-a-data-scientist)
 
 - [The Big List of DS/ML Interview Resources](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63)
+- [Top 20 Data Science Interview Questions(10 Behavioral)(https://www.career.msstate.edu/blog/2024/07/02/20-common-data-science-interview-questions/)]
 
 <a name="ai" />
 
