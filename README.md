@@ -123,6 +123,8 @@
 
 - [The Big List of DS/ML Interview Resources](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63)
 
+- [Top 100+ Machine Learning Interview Questions (Beginner to Advanced)](https://www.appliedaicourse.com/blog/machine-learning-interview-questions/)
+
 <a name="ai" />
 
 ## Artificial Intelligence
