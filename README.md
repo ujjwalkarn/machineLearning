@@ -436,7 +436,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Google+ Deep Learning Page](https://plus.google.com/communities/112866381580457264725)
 
-- [Recent Reddit AMAs related to Deep Learning](http://deeplearning.net/2014/11/22/recent-reddit-amas-about-deep-learning/), [Another AMA](https://www.reddit.com/r/IAmA/comments/3mdk9v/we_are_google_researchers_working_on_deep/)
+- [Recent Reddit AMAs related to Deep Learning](https://web.archive.org/web/20200924072724/http://deeplearning.net/2014/11/22/recent-reddit-amas-about-deep-learning/), [Another AMA](https://www.reddit.com/r/IAmA/comments/3mdk9v/we_are_google_researchers_working_on_deep/)
 
 - [Where to Learn Deep Learning?](http://www.kdnuggets.com/2014/05/learn-deep-learning-courses-tutorials-overviews.html)
 
@@ -446,17 +446,15 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Video Lectures Oxford 2015](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu), [Video Lectures Summer School Montreal](http://videolectures.net/deeplearning2015_montreal/)
 
-- [Deep Learning Software List](http://deeplearning.net/software_links/)
+- [Deep Learning Software List](https://web.archive.org/web/20201112013158/http://deeplearning.net/software_links/)
 
 - [Hacker's guide to Neural Nets](http://karpathy.github.io/neuralnets/)
 
 - [Top arxiv Deep Learning Papers explained](http://www.kdnuggets.com/2015/10/top-arxiv-deep-learning-papers-explained.html)
 
-- [Geoff Hinton Youtube Vidoes on Deep Learning](https://www.youtube.com/watch?v=IcOMKXAw5VA)
+- [Awesome Deep Learning Reading List](https://web.archive.org/web/20201111172350/http://deeplearning.net/reading-list/)
 
-- [Awesome Deep Learning Reading List](http://deeplearning.net/reading-list/)
-
-- [Deep Learning Comprehensive Website](http://deeplearning.net/), [Software](http://deeplearning.net/software_links/)
+- [Deep Learning Comprehensive Website](https://web.archive.org/web/20201114013453/http://deeplearning.net/), [Software](https://web.archive.org/web/20201112013158/http://deeplearning.net/software_links/)
 
 - [deeplearning Tutorials](http://deeplearning4j.org/)
 
@@ -474,7 +472,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Neural Networks FAQs on Stack Overflow](http://stackoverflow.com/questions/tagged/neural-network?sort=votes&pageSize=50)
 
-- [Deep Learning Tutorials on deeplearning.net](http://deeplearning.net/tutorial/index.html)
+- [Deep Learning Tutorials on deeplearning.net](https://web.archive.org/web/20201006012505/http://deeplearning.net/tutorial/index.html)
 
 - [Neural Networks and Deep Learning Online Book](http://neuralnetworksanddeeplearning.com/)
 
@@ -499,27 +497,27 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
     - [Theano](https://en.wikipedia.org/wiki/Theano_(software))
     
-        - [Website](http://deeplearning.net/software/theano/)
+        - [Website](https://web.archive.org/web/20201115225922/https://deeplearning.net/software/theano/)
         
         - [Theano Introduction](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/)
         
         - [Theano Tutorial](http://outlace.com/Beginner-Tutorial-Theano/)
         
-        - [Good Theano Tutorial](http://deeplearning.net/software/theano/tutorial/)
+        - [Good Theano Tutorial](https://web.archive.org/web/20200807025617/http://deeplearning.net/software/theano/tutorial/)
         
-        - [Logistic Regression using Theano for classifying digits](http://deeplearning.net/tutorial/logreg.html#logreg)
+        - [Logistic Regression using Theano for classifying digits](https://web.archive.org/web/20200812061800/http://deeplearning.net/tutorial/logreg.html#logreg)
         
-        - [MLP using Theano](http://deeplearning.net/tutorial/mlp.html#mlp)
+        - [MLP using Theano](https://web.archive.org/web/20201106013436/http://deeplearning.net/tutorial/mlp.html#mlp)
         
-        - [CNN using Theano](http://deeplearning.net/tutorial/lenet.html#lenet)
+        - [CNN using Theano](https://web.archive.org/web/20200227135643/http://deeplearning.net/tutorial/lenet.html)
         
-        - [RNNs using Theano](http://deeplearning.net/tutorial/rnnslu.html#rnnslu)
+        - [RNNs using Theano](https://web.archive.org/web/20201111194240/http://deeplearning.net/tutorial/rnnslu.html#rnnslu)
         
-        - [LSTM for Sentiment Analysis in Theano](http://deeplearning.net/tutorial/lstm.html#lstm)
+        - [LSTM for Sentiment Analysis in Theano](https://web.archive.org/web/20201109035427/http://deeplearning.net/tutorial/lstm.html#lstm)
         
-        - [RBM using Theano](http://deeplearning.net/tutorial/rbm.html#rbm)
+        - [RBM using Theano](https://web.archive.org/web/20201111205044/http://deeplearning.net/tutorial/rbm.html#rbm)
         
-        - [DBNs using Theano](http://deeplearning.net/tutorial/DBN.html#dbn)
+        - [DBNs using Theano](https://web.archive.org/web/20201011141121/http://deeplearning.net/tutorial/DBN.html#dbn)
         
         - [All Codes](https://github.com/lisa-lab/DeepLearningTutorials)
         
@@ -642,13 +640,13 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
         
         - [LSTM for Kaggle EEG Detection competition (Torch Code)](https://github.com/apaszke/kaggle-grasp-and-lift)
         
-        - [LSTM for Sentiment Analysis in Theano](http://deeplearning.net/tutorial/lstm.html#lstm)
+        - [LSTM for Sentiment Analysis in Theano](https://web.archive.org/web/20201109035427/http://deeplearning.net/tutorial/lstm.html#lstm)
         
         - [Deep Learning for Visual Q&A | LSTM | CNN](http://avisingh599.github.io/deeplearning/visual-qa/), [Code](https://github.com/avisingh599/visual-qa)
         
         - [Computer Responds to email using LSTM | Google](http://googleresearch.blogspot.in/2015/11/computer-respond-to-this-email.html)
         
-        - [LSTM dramatically improves Google Voice Search](http://googleresearch.blogspot.ch/2015/09/google-voice-search-faster-and-more.html), [Another Article](http://deeplearning.net/2015/09/30/long-short-term-memory-dramatically-improves-google-voice-etc-now-available-to-a-billion-users/)
+        - [LSTM dramatically improves Google Voice Search](http://googleresearch.blogspot.ch/2015/09/google-voice-search-faster-and-more.html), [Another Article](https://web.archive.org/web/20200924092031/http://deeplearning.net/2015/09/30/long-short-term-memory-dramatically-improves-google-voice-etc-now-available-to-a-billion-users/)
         
         - [Understanding Natural Language with LSTM Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
         
@@ -677,7 +675,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
     - [Beginner's Guide about RBMs](http://deeplearning4j.org/restrictedboltzmannmachine.html)
     
-    - [Another Good Tutorial](http://deeplearning.net/tutorial/rbm.html)
+    - [Another Good Tutorial](https://web.archive.org/web/20201111205044/http://deeplearning.net/tutorial/rbm.html)
     
     - [Introduction to RBMs](http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/)
     
@@ -697,9 +695,9 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     
     - [Deep Autoencoders Tutorial](http://deeplearning4j.org/deepautoencoder.html)
     
-    - [Denoising Autoencoders](http://deeplearning.net/tutorial/dA.html), [Theano Code](http://deeplearning.net/tutorial/code/dA.py)
+    - [Denoising Autoencoders](https://web.archive.org/web/20200330062952/http://deeplearning.net/tutorial/dA.html), [Theano Code](https://web.archive.org/web/20200220181226/http://deeplearning.net/tutorial/code/dA.py)
     
-    - [Stacked Denoising Autoencoders](http://deeplearning.net/tutorial/SdA.html#sda)
+    - [Stacked Denoising Autoencoders](https://web.archive.org/web/20200226065339/http://deeplearning.net/tutorial/SdA.html)
 
 
 <a name="cnn" />
